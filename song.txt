@@ -11,7 +11,10 @@ master
 
 feature
 
-tags
 
 
-stash
+feature 1
+
+
+feature 2
+
