@@ -10,3 +10,8 @@ master
 
 
 feature
+
+tags
+
+
+stash
